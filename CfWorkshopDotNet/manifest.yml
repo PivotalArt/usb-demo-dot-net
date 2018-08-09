@@ -1,7 +1,7 @@
 ﻿---
 applications:
-- name: cf-workshop-dot-net
-  host: cf-workshop-dot-net
+- name: usb-demo-dot-net
+  host: usb-demo-dot-net
   stack: windows2012R2
   services:
    - cf-workshop-db
